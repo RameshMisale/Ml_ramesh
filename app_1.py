@@ -21,7 +21,7 @@ def web_app():
     # Customer Behaviour Analysis with Machine Learning
     ## This app predicts to which category a customer belongs too
    """)
-    image = Image.open('customer_pic.png')
+    
 
     st.image(image, caption='Customer Behaviour Analysis')
     st.header("User Details")
