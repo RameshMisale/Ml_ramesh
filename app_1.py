@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import streamlit as st
 from numpy import outer
-from PIL import Image
+
 
 model = joblib.load('customer.pkl')
 
