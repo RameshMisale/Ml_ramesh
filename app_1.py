@@ -23,7 +23,7 @@ def web_app():
    """)
     
 
-    st.image(image, caption='Customer Behaviour Analysis')
+    
     st.header("User Details")
     st.subheader("Kindly Enter The following Details in order to make a prediction")
 
